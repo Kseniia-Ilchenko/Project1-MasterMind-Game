@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # MasterMind Game
-*[Anna Shin, Paul Melin, Radoslaw Debek]*
+*super team [Anna Shin, Paul Melin, Radoslaw Debek]*
 
-*[Data Analytics, Paris & 03.12.2021]*
+*[Data Analytics, Paris & 03.12.2021] *
 
 ## Content
 - [Project Description](#project-description)
